@@ -44,6 +44,7 @@
         <object>Contact</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
+
     <tabSettings>
         <tab>Book_Copy__c</tab>
         <visibility>Visible</visibility>
@@ -56,4 +57,5 @@
         <tab>Borrow__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
+
 </PermissionSet>
