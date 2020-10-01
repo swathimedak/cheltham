@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/swathimedak/DevOpsProject/_apis/build/status/Unlocked%20Package%20Build%20using%20sfpowerscript?repoName=repository&branchName=master)](https://dev.azure.com/swathimedak/DevOpsProject/_build/latest?definitionId=6&repoName=repository&branchName=master)
 # Salesforce App
 
 This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.
